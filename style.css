@@ -1,0 +1,20 @@
+html{
+    font-family: helvetica;
+    
+}
+body{
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    height: 65px;
+    margin: 0;
+    border-bottom-style: solid;
+    border-bottom: 20px, gray;
+}
+#navInner{
+    display: flex;
+    margin-left: 10px;
+    height: 65px;
+
+}
